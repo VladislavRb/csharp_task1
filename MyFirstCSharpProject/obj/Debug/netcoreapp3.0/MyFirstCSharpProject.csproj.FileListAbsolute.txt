@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.exe
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.deps.json
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.dll
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\bin\Debug\netcoreapp3.0\MyFirstCSharpProject.pdb
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\obj\Debug\netcoreapp3.0\MyFirstCSharpProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\obj\Debug\netcoreapp3.0\MyFirstCSharpProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\obj\Debug\netcoreapp3.0\MyFirstCSharpProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\obj\Debug\netcoreapp3.0\MyFirstCSharpProject.dll
+C:\Users\Lenovo\source\repos\MyFirstCSharpProject\obj\Debug\netcoreapp3.0\MyFirstCSharpProject.pdb
